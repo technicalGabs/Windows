@@ -1,0 +1,4 @@
+﻿  Building 'echoapp' with toolset 'WindowsApplicationForDrivers10.0' and the 'Windows Driver' target platform.
+  echoapp.cpp
+  echoapp.vcxproj -> C:\sampleDriver\kmdf\exe\x64\Debug\echoapp.exe
+  Driver is 'Windows Driver'.

@@ -1,0 +1,1 @@
+C:\sampleDriver\kmdf\driver\DriverSync\x64\Debug\echo_2.sys

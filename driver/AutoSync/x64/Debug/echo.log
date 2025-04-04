@@ -1,0 +1,30 @@
+﻿  Building 'echo' with toolset 'WindowsKernelModeDriver10.0' and the 'Windows Driver' target platform.
+  Stamping x64\Debug\echo.inf
+  Stamping [Version] section with DriverVer=04/04/2025,17.30.32.989
+C:\sampleDriver\kmdf\driver\AutoSync\echo.inx(21-21): warning 1284: Class "Sample" is reserved for use by Microsoft.
+C:\sampleDriver\kmdf\driver\AutoSync\echo.inx(39-39): warning 1285: Cannot specify [ClassInstall32] section for Microsoft-defined class.
+C:\sampleDriver\kmdf\driver\AutoSync\echo.inx(65-65): warning 1293: Service name 'ECHO' is reserved.
+C:\sampleDriver\kmdf\driver\AutoSync\echo.inx(76-76): warning 1293: Service name 'ECHO' is reserved.
+  device.c
+  driver.c
+  queue.c
+  Generating Code...
+  echo.vcxproj -> C:\sampleDriver\kmdf\driver\AutoSync\x64\Debug\echo.sys
+  Done Adding Additional Store
+  Successfully signed: C:\sampleDriver\kmdf\driver\AutoSync\x64\Debug\echo.sys
+  
+  Driver is 'Windows Driver'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\sampleDriver\kmdf\driver\AutoSync\x64\Debug\echo\kmdfsamples.cat
+  Done Adding Additional Store
+  Successfully signed: x64\Debug\echo\kmdfsamples.cat
+  
